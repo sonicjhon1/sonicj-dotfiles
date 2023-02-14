@@ -1,0 +1,19 @@
+[KFileDialog Settings]
+Recent Files[$e]=3.png,file:$HOME/Downloads/3.png
+Recent URLs[$e]=file:$HOME/Downloads/
+iconViewIconSize=64
+
+[MainWindow]
+MenuBar=Disabled
+State=AAAA/wAAAAD9AAAAAAAAA/wAAAK8AAAABAAAAAQAAAAIAAAACPwAAAABAAAAAgAAAAEAAAAWAG0AYQBpAG4AVABvAG8AbABCAGEAcgAAAAAA/////wAAAAAAAAAA
+ToolBarsMovable=Disabled
+eDP-1=eDP-1
+eDP-1 XPosition 1920x1080 eDP-1=680
+eDP-1 YPosition 1920x1080 eDP-1=165
+
+[Open-with settings]
+CompletionMode=1
+History=yak,pamac-tray
+
+[UiSettings]
+ColorScheme=Default

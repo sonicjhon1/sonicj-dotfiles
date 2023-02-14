@@ -1,0 +1,14 @@
+[GuiConfig]
+captureMode=5
+cropRegion=556,390,809,433
+window-position=508,105
+
+[KFileDialog Settings]
+Recent Files[$e]=file:$HOME/Pictures/Screenshot_20221226_094246.png,file:$HOME/Pictures/Screenshot_20221226_094246.png
+Recent URLs[$e]=file:$HOME/Pictures/
+iconViewIconSize=64
+
+[Save]
+lastSaveAsLocation=file:///home/sonicj/Pictures/Screenshot_20221226_094246.png
+lastSaveLocation=file:///home/sonicj/Pictures/Screenshot_20221229_141415.png
+lastUsedSaveMode=Save

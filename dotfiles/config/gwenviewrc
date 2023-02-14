@@ -1,0 +1,42 @@
+[General]
+LastUsedVersion=210800
+
+[KFileDialog Settings]
+Places Icons Auto-resize=false
+Places Icons Static Size=32
+
+[MainWindow]
+MenuBar=Disabled
+State=AAAA/wAAAAD9AAAAAAAAB4AAAAPIAAAABAAAAAQAAAAIAAAACPwAAAABAAAAAgAAAAEAAAAWAG0AYQBpAG4AVABvAG8AbABCAGEAcgEAAAAA/////wAAAAAAAAAA
+ToolBarsMovable=Disabled
+eDP-1=eDP-1
+eDP-1 Height 1920x1080 eDP-1=1010
+eDP-1 Width 1920x1080 eDP-1=1920
+eDP-1 Window-Maximized 1920x1080 eDP-1=true
+eDP-1 XPosition 1920x1080 eDP-1=0
+eDP-1 YPosition 1920x1080 eDP-1=70
+
+[Recent Files]
+File1[$e]=$HOME/Downloads/103036771_p60.jpg
+File10[$e]=/run/media/sonicj/3255683f-53a2-4fdf-91cf-b4c1041e2a62/home/sonicj/Data/sonicjhon1.github.io/09 SchoolworkList-UI/public/android-chrome-512x512.png
+File2[$e]=$HOME/Downloads/103036771_p63.jpg
+File3[$e]=$HOME/Downloads/103036771_p65.jpg
+File4[$e]=$HOME/Downloads/103036771_p61.jpg
+File5[$e]=$HOME/Downloads/103036771_p58.jpg
+File6[$e]=$HOME/Downloads/103237706_p0.png
+File7[$e]=$HOME/Downloads/404.jpg
+File8[$e]=$HOME/Downloads/103036771_p56.jpg
+File9[$e]=$HOME/Downloads/xiao-yelan-yanfei-itto-kuki-shinobu-keyvisual-official-desktop-wallpaper-genshin.jpg
+Name1[$e]=103036771_p60.jpg
+Name10[$e]=android-chrome-512x512.png
+Name2[$e]=103036771_p63.jpg
+Name3[$e]=103036771_p65.jpg
+Name4[$e]=103036771_p61.jpg
+Name5[$e]=103036771_p58.jpg
+Name6[$e]=103237706_p0.png
+Name7[$e]=404.jpg
+Name8[$e]=103036771_p56.jpg
+Name9[$e]=xiao-yelan-yanfei-itto-kuki-shinobu-keyvisual-official-desktop-wallpaper-genshin.jpg
+
+[SideBar]
+InformationSplitterSizes=205,250

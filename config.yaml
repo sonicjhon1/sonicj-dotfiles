@@ -1,0 +1,32 @@
+config:
+  backup: true
+  create: true
+  dotpath: dotfiles
+dotfiles:
+  d_config:
+    src: config
+    dst: ~/.config
+  d_kde4:
+    src: kde4
+    dst: ~/.kde4
+  d_themes:
+    src: themes
+    dst: ~/.themes
+  f_gtkrc-2.0:
+    src: gtkrc-2.0
+    dst: ~/.gtkrc-2.0
+  f_xero.png:
+    src: xero.png
+    dst: ~/xero.png
+  f_xeroascii:
+    src: XeroAscii
+    dst: ~/XeroAscii
+profiles:
+  SONICJ-LCV:
+    dotfiles:
+    - d_config
+    - d_kde4
+    - d_themes
+    - f_gtkrc-2.0
+    - f_xero.png
+    - f_xeroascii
